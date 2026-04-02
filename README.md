@@ -179,7 +179,6 @@ Take one tablet after breakfast and syrup before sleep.
 
 
 ---
-```bash
 
 
 💡 Future Improvements
